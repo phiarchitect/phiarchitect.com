@@ -16,7 +16,7 @@ import alabaster
 # -- General ABlog Options ----------------------------------------------------
 
 # A path relative to the configuration directory for blog archive pages.
-# blog_path = 'blog'
+blog_path = 'posts'
 
 # The "title" for the blog, used in active pages.  Default is ``'Blog'``.
 blog_title = "phi ARCHITECT"
@@ -265,7 +265,7 @@ pygments_style = 'sphinx'
 # keep_warnings = False
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
-todo_include_todos = "False"
+todo_include_todos = False
 
 
 # -- Options for HTML output ----------------------------------------------
