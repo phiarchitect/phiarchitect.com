@@ -370,9 +370,6 @@ html_theme_options = {
     'logo': 'phi-headshot-sqr.jpg',
     'github_user': 'phiarchitect',
     'github_button': True,
-    'base_bg': 'black',
-    'base_text': 'white',
-    'font_family': "'Fira Sans Condensed', sans-serif",
 }
 
 ablog_website = 'docs'
