@@ -367,7 +367,7 @@ htmlhelp_basename = "phiARCHITECTdoc"
 
 
 html_theme_options = {
-    'logo': 'logo.png',
+    #  'logo': 'logo.png',
     'github_user': 'phiarchitect',
     'base_bg': 'black',
     'base_text': 'white',
