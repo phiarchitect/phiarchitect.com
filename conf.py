@@ -11,7 +11,7 @@
 import os
 import sys
 import ablog
-import alabaster
+import photonsphinx
 
 # -- General ABlog Options ----------------------------------------------------
 
@@ -24,6 +24,9 @@ blog_title = "phi ARCHITECT"
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
 blog_baseurl = ""
+
+#  html_base_url = 'https://phiarchitect.com'
+html_baseurl = 'phiarchitect.com'
 
 # Choose to archive only post titles. Archiving only titles can speed
 # up project building.
@@ -193,7 +196,7 @@ extensions = [
     'sphinx.ext.graphviz',
     'sphinx.ext.mathjax',
     'sphinx.ext.todo',
-    'alabaster',
+    'photonsphinx',
     'ablog',
 ]
 
@@ -272,7 +275,7 @@ todo_include_todos = False
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = 'photonsphinx'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -282,7 +285,7 @@ html_theme_options = {
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = [alabaster.get_path()]
+html_theme_path = [photonsphinx.get_path()]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -367,11 +370,10 @@ htmlhelp_basename = "phiARCHITECTdoc"
 
 
 html_theme_options = {
-    #  'logo': 'logo.png',
+    'logo': 'phi-headshot-sqr.jpg',
+    'logo_name': True,
     'github_user': 'phiarchitect',
-    'base_bg': 'black',
-    'base_text': 'white',
-    'font_family': "'Fira Sans Condensed', sans-serif",
+    'github_button': True,
 }
 
 ablog_website = 'docs'
