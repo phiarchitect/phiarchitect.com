@@ -25,6 +25,9 @@ blog_title = "phi ARCHITECT"
 # e.g. blog_baseurl = "http://example.com/"
 blog_baseurl = ""
 
+#  html_base_url = 'https://phiarchitect.com'
+html_baseurl = 'phiarchitect.com'
+
 # Choose to archive only post titles. Archiving only titles can speed
 # up project building.
 # blog_archive_titles = False
@@ -368,6 +371,7 @@ htmlhelp_basename = "phiARCHITECTdoc"
 
 html_theme_options = {
     'logo': 'phi-headshot-sqr.jpg',
+    'logo_name': True,
     'github_user': 'phiarchitect',
     'github_button': True,
 }
