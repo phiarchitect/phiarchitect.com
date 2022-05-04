@@ -3,9 +3,10 @@ Hey
 ===
 
 .. post:: May 02, 2022
-   :tags:
-   :category:
+   :tags: intro
+   :category: commentary
+   :exclude:
 
-   how ya doing?
+   time is running out
 
 time to get started

@@ -3,13 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to phi ARCHITECT's Blog!
-=========================================
 
-Hello World! Find more about me here: :ref:`about`
+phi ARCHITECT
+=============
+
+structure • logic • style
+-------------------------
 
 
-Here is a list of most recent posts:
+:ref:`about`
+
+Recent Posts
+~~~~~~~~~~~~
+
 
 .. postlist:: 5
    :excerpts:
@@ -25,5 +31,5 @@ Here is a list of most recent posts:
 .. toctree::
    :hidden:
 
-   about.rst
+   About <about.rst>
 
