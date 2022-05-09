@@ -13,6 +13,7 @@ structure • logic • style
 
 :ref:`about`
 
+
 Recent Posts
 ~~~~~~~~~~~~
 
@@ -31,5 +32,10 @@ Recent Posts
 .. toctree::
    :hidden:
 
-   About <about.rst>
+   MISSION <mission/index.rst>
+   POSTS </posts#http://>
+   PROJECTS <projects>
+   DISCUSS <discuss>
+   GITHUB <https://phiarchitect.github.io>
+   ABOUT <about.rst>
 
