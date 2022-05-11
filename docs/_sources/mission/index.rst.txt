@@ -4,9 +4,10 @@
 Mission
 =======
 
+.. contents::
 
-.. toctree:: 
-   sub1.rst
+   
+.. include:: sub1.rst
 
 
 Summary
