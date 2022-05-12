@@ -34,6 +34,7 @@ Recent Posts
 
    MISSION <mission/index.rst>
    POSTS </posts#http://>
+   ORGS <orgs>
    PROJECTS <projects>
    DISCUSS <discuss>
    GITHUB <https://phiarchitect.github.io>
