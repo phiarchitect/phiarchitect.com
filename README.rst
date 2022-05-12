@@ -22,6 +22,6 @@ Run `./build.sh` to clear, build, and publish
 Generated with photon-sphinx-theme_
 
 
-_Sphinx: https://www.sphinx-doc.org/en/master/index.html
-_ABlog: https://ablog.readthedocs.io/en/latest/
-_photon-sphinx-theme: https://github.com/photon-platform/photon-sphinx-theme
+.. _Sphinx: https://www.sphinx-doc.org/en/master/index.html
+.. _ABlog: https://ablog.readthedocs.io/en/latest/
+.. _photon-sphinx-theme: https://github.com/photon-platform/photon-sphinx-theme
