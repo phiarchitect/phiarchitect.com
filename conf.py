@@ -16,7 +16,7 @@ import photonsphinx
 # -- General ABlog Options ----------------------------------------------------
 
 # A path relative to the configuration directory for blog archive pages.
-blog_path = 'posts'
+#  blog_path = 'posts'
 
 # The "title" for the blog, used in active pages.  Default is ``'Blog'``.
 blog_title = "phi ARCHITECT"
@@ -370,4 +370,4 @@ html_theme_options = {
     'github_button': True,
 }
 
-ablog_website = 'docs'
+#  ablog_website = 'docs'
