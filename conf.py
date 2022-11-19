@@ -8,8 +8,6 @@
 # All configuration values have a default; values that are commented out
 # serve to show the default.
 
-import os
-import sys
 import ablog
 import photonsphinx
 
@@ -20,6 +18,7 @@ import photonsphinx
 
 # The "title" for the blog, used in active pages.  Default is ``'Blog'``.
 blog_title = "phi ARCHITECT"
+html_title = "phi ARCHITECT"
 
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
