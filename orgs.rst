@@ -7,7 +7,8 @@ Organizations
 development of his primary interests around geometry, systems architecture and
 music.
 
-.. contents::
+.. contents:: contents
+   :local:
    :backlinks: none
 
 

@@ -4,9 +4,11 @@
 Mission
 =======
 
-.. contents::
+.. contents:: contents
+   :local: 
+   :backlinks: none
 
-   
+
 .. include:: sub1.rst
 
 
