@@ -25,7 +25,7 @@ blog_authors = {
 }
 
 html_theme_options = {
-    'logo': 'logo.png',
+    'logo': 'phi-headshot-sqr.jpg',
     'logo_name': True,
     'github_user': org,
     'github_repo': repo,
