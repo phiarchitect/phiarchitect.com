@@ -1,0 +1,8 @@
+Welcome to phiarchitect.com
+===========================
+
+.. post::  22.356-160717
+   :tags: 
+   :category: STATUS
+
+first log entry
