@@ -17,8 +17,6 @@ structure • logic • style
    MISSION <mission/index.rst>
    LOG </log#http://>
    ORGS <orgs>
-   PROJECTS <projects>
    DISCUSS <discuss>
-   GITHUB <https://phiarchitect.github.io>
    ABOUT <about.rst>
 

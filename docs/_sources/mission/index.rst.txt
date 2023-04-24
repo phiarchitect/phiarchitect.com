@@ -1,6 +1,3 @@
-
-.. _mission:
-
 Mission
 =======
 
@@ -9,7 +6,4 @@ Mission
    :backlinks: none
 
 
-.. include:: sub1.rst
 
-
-Summary
