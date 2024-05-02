@@ -14,9 +14,10 @@ structure • logic • style
 
 .. toctree::
 
-   MISSION <mission/index.rst>
-   LOG </log#http://>
-   ORGS <orgs>
-   DISCUSS <discuss>
-   ABOUT <about.rst>
+   mission/index.rst
+   logs
+   projects
+   orgs
+   connect
+   about
 
