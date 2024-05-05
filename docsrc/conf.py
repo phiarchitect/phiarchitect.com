@@ -1,4 +1,5 @@
 from ablog.conf import *
+from photon_platform.sphinxilator.global_conf import *
 
 org = 'phiarchitect'
 org_name = 'phi ARCHITECT'

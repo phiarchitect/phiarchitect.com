@@ -1,7 +1,7 @@
 
 .. _projects:
 
-Projects
+projects
 ========
 
 

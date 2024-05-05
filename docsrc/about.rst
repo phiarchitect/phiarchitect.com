@@ -2,8 +2,8 @@
 .. _about:
 
 
-About phi ARCHITECT
-===================
+about
+=====
 
 
 I have always been deeply interested in architecture and have had the privilege of practicing it in many different domains. 
