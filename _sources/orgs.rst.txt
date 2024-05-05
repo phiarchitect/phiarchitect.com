@@ -1,6 +1,6 @@
 .. _orgs:
 
-Organizations
+organizations
 =============
 
 **phi ARCHITECT** has created three organizations to contain the research and

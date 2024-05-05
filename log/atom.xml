@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://phiarchitect.github.io/phiarchitect.com</id>
   <title>phi ARCHITECT • phiarchitect.com</title>
-  <updated>2024-05-02T02:43:52.371546+00:00</updated>
+  <updated>2024-05-05T17:55:25.852225+00:00</updated>
   <link href="https://phiarchitect.github.io/phiarchitect.com"/>
   <link href="https://phiarchitect.github.io/phiarchitect.com/log/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="unknown.dev">ABlog</generator>
@@ -11,11 +11,11 @@
     <title>Welcome to phiarchitect.com</title>
     <updated>2022-12-22T16:07:17+00:00</updated>
     <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;first log entry&lt;/p&gt;
+&lt;p&gt;this is an excerpt&lt;/p&gt;
 &lt;/div&gt;
 </content>
     <link href="https://phiarchitect.github.io/phiarchitect.com/log/22.356-160717/"/>
-    <summary>first log entry</summary>
+    <summary>this is an excerpt</summary>
     <published>2022-12-22T16:07:17+00:00</published>
   </entry>
 </feed>

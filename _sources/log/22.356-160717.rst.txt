@@ -5,4 +5,6 @@ Welcome to phiarchitect.com
    :tags: 
    :category: STATUS
 
-first log entry
+   this is an excerpt
+
+this is a first line

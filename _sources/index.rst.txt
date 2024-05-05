@@ -1,11 +1,15 @@
 phi ARCHITECT
 =============
 
-structure • logic • style
--------------------------
+**structure • logic • style**
 
+.. note::
+   use the ``next`` button at the top of the page to step through the whole site
 
 .. :ref:`about`
+
+recent posts
+------------
 
 
 .. postlist:: 5
@@ -13,6 +17,7 @@ structure • logic • style
 
 
 .. toctree::
+   :hidden:
 
    mission/index.rst
    logs
@@ -21,3 +26,5 @@ structure • logic • style
    connect
    about
 
+.. note::
+   site in progress
